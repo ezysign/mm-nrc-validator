@@ -13,10 +13,20 @@ describe('Calculate Action', () => {
 
   test('should verifyNRC  ', () => {
     expect(verifyNRC('၁၂/မဂတ(နိုင်)၀၉၈၇၆၄')).toEqual(true)
-    // expect(verifyNRC('၁၂/မဂတ(နိုင်)၀၇၆၄')).toEqual(false)
+    
   }) 
-  test('should verifyNRC  ', () => {
-    expect(extractNrcInfo('၁၂/မဂတ(နိုင်)၀၉၈၇၆၄')).toEqual(true)
+  test('should extract Info  ', () => {
+    
+    expect(extractNrcInfo('၁၂/မဂတ(နိုင်)၀၉၈၇၆၄')).toEqual({
+        sr_code_en: '12',
+        sr_code_mm: '၁၂',
+        citizenship_status: '(နိုင်)',
+        township_code_mm: 'မဂတ',
+        sr_name: 'ရန်ကုန်တိုင်းဒေသကြီး',
+        township_name: 'မင်္ဂလာတောင်ညွန့်'
+      })
+
+      expect(extractNrcInfo('၁၂/ကဘဘ(နိုင်)၀၉၈၇၆၄')).toEqual(undefined)
     
   })
 

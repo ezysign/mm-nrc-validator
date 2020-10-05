@@ -14,7 +14,14 @@ export interface INRCTownShip {
     voter: any;
 }
 
-export interface 
+export interface INRCData{
+    sr_code_en:string,
+    sr_code_mm:string,
+    township_code_mm:string,
+    sr_name:string,
+    citizenship_status:"(နိုင်)"|"(ဧည့်)"|"(ပြု)"|"(စ)"|"(သာ)"|"(သီ)"|string,
+    township_name:string,
+}
 
 declare module '*.json' {
     const value: any;

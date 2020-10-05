@@ -2,7 +2,7 @@
 
 import * as township from './township.json';
 import * as nrccode from './nrccode.json';
-import { INRCTownShip, ITownShip } from '../types/custom-typings';
+import { INRCData, INRCTownShip, ITownShip } from '../types/custom-typings';
 
 
 
@@ -53,15 +53,35 @@ export const verifyNRC=(input:string):boolean=>{
     return nrccode.data.some((item:INRCTownShip)=> item.nrc_sr_code === nrcSRCode && item.nrc_township_code===nrcTownShipCode)
 }
 
-export const extractNrcInfo=(input:string):boolean=>{
+export const extractNrcInfo=(input:string):INRCData|undefined=>{
     
     const matchArr=getMatchNRC(input.trim())
+    
+    const citizenShipStatus = `${matchArr[3]}`
     const nrcSRCodebackSlash = `${matchArr[1]}/`
     const nrcSRCode = `${matchArr[1]}`
     const nrcTownShipCode= `${matchArr[2]}`
-    nrcSRCode.split("").map((char:string)=>MM_NUM_2_EN_NUM[char]).join("")
+    const nrcSrEnglish=nrcSRCode.split("").map((char:string)=>MM_NUM_2_EN_NUM[char]).join("")
     
-    return nrccode.data.some((item:INRCTownShip)=> item.nrc_sr_code === nrcSRCodebackSlash && item.nrc_township_code===nrcTownShipCode)
+    
+    const nrc = nrccode.data.find((item:INRCTownShip)=>item.nrc_sr_code === nrcSRCodebackSlash && item.nrc_township_code===nrcTownShipCode) 
+    if(!nrc){
+        return undefined
+    }
+    const townShip=township.data.find((item:ITownShip)=>item.SR_Code===nrcSrEnglish)
+    if(!townShip){
+        return undefined
+    }
+    const nrcData:INRCData={
+        sr_code_en:nrcSrEnglish,
+        sr_code_mm:nrcSRCode,
+        citizenship_status:citizenShipStatus,
+        township_code_mm:nrc.nrc_township_code,
+        sr_name:townShip.SR_Name,
+        township_name:nrc.nrc_township_name,
+    }
+    return nrcData
+    
 }
 
 
