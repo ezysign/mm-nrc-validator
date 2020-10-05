@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "declaration": true,
+    "isolatedModules": true,
+    "outDir": "./dist",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "typeRoots": ["types","node_modules/@types"],
+    "sourceMap": true
+  },
+  "include": ["./**/*.ts"],
+  "exclude":["./**/*.test.ts"]
+  
+}

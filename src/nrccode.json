@@ -1,0 +1,2660 @@
+{
+  "data": [
+    {
+      "ID": 58,
+      "nrc_township_code": "၀သန",
+      "nrc_township_name": "ဝန်းသို",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 224,
+      "nrc_township_code": "ကကက",
+      "nrc_township_name": "ကိုကိုးကျွန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 296,
+      "nrc_township_code": "ကကထ",
+      "nrc_township_name": "ကန်ကြီးထောင့်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 100,
+      "nrc_township_code": "ကကန",
+      "nrc_township_name": "ကျောက်ကြီး",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 293,
+      "nrc_township_code": "ကကန",
+      "nrc_township_name": "ကုန်းကြမ်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 300,
+      "nrc_township_code": "ကကန",
+      "nrc_township_name": "ကျောင်းကုန်း",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 31,
+      "nrc_township_code": "ကကရ",
+      "nrc_township_name": "ကော့ကရိတ်",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 223,
+      "nrc_township_code": "ကခက",
+      "nrc_township_name": "ကွမ်းခြံကုန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 268,
+      "nrc_township_code": "ကခန",
+      "nrc_township_name": "ကွတ်ခိုင်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 308,
+      "nrc_township_code": "ကခန",
+      "nrc_township_name": "ကြံခင်း",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 85,
+      "nrc_township_code": "ကစန",
+      "nrc_township_name": "ကျွန်းစု",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 32,
+      "nrc_township_code": "ကဆက",
+      "nrc_township_name": "ကြာအင်းဆိပ်ကြီး",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 151,
+      "nrc_township_code": "ကဆန",
+      "nrc_township_name": "ကျောက်ဆည်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 95,
+      "nrc_township_code": "ကတခ",
+      "nrc_township_name": "ကျောက်တံခါး",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 233,
+      "nrc_township_code": "ကတတ",
+      "nrc_township_name": "ကျောက်တံတား",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 194,
+      "nrc_township_code": "ကတန",
+      "nrc_township_name": "ကျောက်တော်",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 222,
+      "nrc_township_code": "ကတန",
+      "nrc_township_name": "ကျောက်တန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 255,
+      "nrc_township_code": "ကတန",
+      "nrc_township_name": "ကျိုင်းတုံ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 181,
+      "nrc_township_code": "ကထန",
+      "nrc_township_name": "ကျိုက်ထို",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 68,
+      "nrc_township_code": "ကနန",
+      "nrc_township_name": "ကနီ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 117,
+      "nrc_township_code": "ကပက",
+      "nrc_township_name": "ကြို့ပင်ကောက်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 164,
+      "nrc_township_code": "ကပတ",
+      "nrc_township_name": "ကျောက်ပန်းတောင်း",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 297,
+      "nrc_township_code": "ကပန",
+      "nrc_township_name": "ကျုံပျော်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 38,
+      "nrc_township_code": "ကပလ",
+      "nrc_township_name": "ကန်ပက်လက်",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 187,
+      "nrc_township_code": "ကဖန",
+      "nrc_township_name": "ကျောက်ဖြူ",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 77,
+      "nrc_township_code": "ကဘလ",
+      "nrc_township_name": "ကန့်ဘလူ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 234,
+      "nrc_township_code": "ကမတ",
+      "nrc_township_name": "ကြည့်မြင်တိုင်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 9,
+      "nrc_township_code": "ကမန",
+      "nrc_township_name": "ဖားကန့်",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 135,
+      "nrc_township_code": "ကမန",
+      "nrc_township_name": "ကံမ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 225,
+      "nrc_township_code": "ကမန",
+      "nrc_township_name": "ကော့မှူး",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 286,
+      "nrc_township_code": "ကမန",
+      "nrc_township_name": "ကျောက်မဲ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 176,
+      "nrc_township_code": "ကမရ",
+      "nrc_township_name": "ကျိုက်မရော",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 232,
+      "nrc_township_code": "ကမရ",
+      "nrc_township_name": "ကမာရွတ်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 57,
+      "nrc_township_code": "ကလတ",
+      "nrc_township_name": "ကောလင်း",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 50,
+      "nrc_township_code": "ကလထ",
+      "nrc_township_name": "ကလေး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 78,
+      "nrc_township_code": "ကလန",
+      "nrc_township_name": "ကျွန်းလှ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 247,
+      "nrc_township_code": "ကလန",
+      "nrc_township_name": "ကလော",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 283,
+      "nrc_township_code": "ကလန",
+      "nrc_township_name": "ကွမ်းလုံ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 318,
+      "nrc_township_code": "ကလန",
+      "nrc_township_name": "ကျိုက်လတ်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 51,
+      "nrc_township_code": "ကလဝ",
+      "nrc_township_name": "ကလေးဝ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 92,
+      "nrc_township_code": "ကဝန",
+      "nrc_township_name": "ကဝ",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 53,
+      "nrc_township_code": "ကသန",
+      "nrc_township_name": "ကသာ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 88,
+      "nrc_township_code": "ကသန",
+      "nrc_township_name": "ကော့သောင်း",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 279,
+      "nrc_township_code": "ကသန",
+      "nrc_township_name": "ကျေးသီး",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 275,
+      "nrc_township_code": "ကဟန",
+      "nrc_township_name": "ကွန်ဟိန်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 175,
+      "nrc_township_code": "ခဆန",
+      "nrc_township_name": "ချောင်းဆုံ",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 60,
+      "nrc_township_code": "ခတန",
+      "nrc_township_name": "ခန္တီး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 3,
+      "nrc_township_code": "ခဖန",
+      "nrc_township_name": "ချီဖွေ",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 18,
+      "nrc_township_code": "ခဘဒ",
+      "nrc_township_name": "ခေါင်လန်ဖူး",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 146,
+      "nrc_township_code": "ခမစ",
+      "nrc_township_name": "ချမ်းမြသာစည်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 120,
+      "nrc_township_code": "ခမန",
+      "nrc_township_name": "ချောက်",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 226,
+      "nrc_township_code": "ခရန",
+      "nrc_township_name": "ခရမ်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 145,
+      "nrc_township_code": "ခအဇ",
+      "nrc_township_name": "ချမ်းအေးသာဇံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 45,
+      "nrc_township_code": "ခဥတ",
+      "nrc_township_name": "ချောင်းဦး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 72,
+      "nrc_township_code": "ခဥန",
+      "nrc_township_name": "ခင်ဦး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 129,
+      "nrc_township_code": "ဂဂန",
+      "nrc_township_name": "ဂန့်ဂေါ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 197,
+      "nrc_township_code": "ဂမန",
+      "nrc_township_name": "ဂွ",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 161,
+      "nrc_township_code": "ငဇန",
+      "nrc_township_name": "ငါန်းဇွန်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 298,
+      "nrc_township_code": "ငပတ",
+      "nrc_township_name": "ငပုတော",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 126,
+      "nrc_township_code": "ငဖန",
+      "nrc_township_name": "ငဖဲ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 153,
+      "nrc_township_code": "စကတ",
+      "nrc_township_name": "စဉ့်ကိုင်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 47,
+      "nrc_township_code": "စကန",
+      "nrc_township_name": "စစ်ကိုင်း",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 168,
+      "nrc_township_code": "စကန",
+      "nrc_township_name": "စဉ့်ကူး",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 235,
+      "nrc_township_code": "စခန",
+      "nrc_township_name": "စမ်းချောင်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 183,
+      "nrc_township_code": "စတန",
+      "nrc_township_name": "စစ်တွေ",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 128,
+      "nrc_township_code": "စတရ",
+      "nrc_township_name": "စေတုတ္ထရာ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 127,
+      "nrc_township_code": "စလန",
+      "nrc_township_name": "စလင်း",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 227,
+      "nrc_township_code": "ဆကခ",
+      "nrc_township_name": "ဆိပ်ကြီးခနောင်တို",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 236,
+      "nrc_township_code": "ဆကန",
+      "nrc_township_name": "ဆိပ်ကမ်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 246,
+      "nrc_township_code": "ဆဆန",
+      "nrc_township_name": "ဆီဆိုင်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 15,
+      "nrc_township_code": "ဆပဘ",
+      "nrc_township_name": "ဆွမ်ပရာဘွမ်",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 138,
+      "nrc_township_code": "ဆပဝ",
+      "nrc_township_name": "ဆင်ပေါင်ဝဲ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 143,
+      "nrc_township_code": "ဆဖန",
+      "nrc_township_name": "ဆိပ်ဖြူ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 131,
+      "nrc_township_code": "ဆမန",
+      "nrc_township_name": "ဆော",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 69,
+      "nrc_township_code": "ဆလက",
+      "nrc_township_name": "ဆားလင်းကြီး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 4,
+      "nrc_township_code": "ဆလန",
+      "nrc_township_name": "ဆော့လော်",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 114,
+      "nrc_township_code": "ဇကန",
+      "nrc_township_name": "ဇီးကုန်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 324,
+      "nrc_township_code": "ဇဗသ",
+      "nrc_township_name": "ဇမ္ဗုသီရိ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 328,
+      "nrc_township_code": "ဇယသ",
+      "nrc_township_name": "ဇေယျာသီရိ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 307,
+      "nrc_township_code": "ဇလန",
+      "nrc_township_name": "ဇလွန်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 305,
+      "nrc_township_code": "ညတန",
+      "nrc_township_name": "ညောင်တုန်း",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 249,
+      "nrc_township_code": "ညရန",
+      "nrc_township_name": "ညောင်ရွှေ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 94,
+      "nrc_township_code": "ညလပ",
+      "nrc_township_name": "ညောင်လေးပင်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 163,
+      "nrc_township_code": "ညဥန",
+      "nrc_township_name": "ညောင်ဦး",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 196,
+      "nrc_township_code": "တကန",
+      "nrc_township_name": "တောင်ကုတ်",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 214,
+      "nrc_township_code": "တကန",
+      "nrc_township_name": "တိုက်ကြီး",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 245,
+      "nrc_township_code": "တကန",
+      "nrc_township_name": "တောင်ကြီး",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 327,
+      "nrc_township_code": "တကန",
+      "nrc_township_name": "တပ်ကုန်း",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 259,
+      "nrc_township_code": "တခလ",
+      "nrc_township_name": "တာချီလိတ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 98,
+      "nrc_township_code": "တငန",
+      "nrc_township_name": "တောင်ငူ",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 76,
+      "nrc_township_code": "တဆန",
+      "nrc_township_name": "တန့်ဆည်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 36,
+      "nrc_township_code": "တဇန",
+      "nrc_township_name": "တွန်းဇန်",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 121,
+      "nrc_township_code": "တတက",
+      "nrc_township_name": "တောင်တွင်းကြီး",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 35,
+      "nrc_township_code": "တတန",
+      "nrc_township_name": "တီးတိန်",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 228,
+      "nrc_township_code": "တတန",
+      "nrc_township_name": "တွံတွေး",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 154,
+      "nrc_township_code": "တတဥ",
+      "nrc_township_name": "တံတာဦး",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 5,
+      "nrc_township_code": "တနန",
+      "nrc_township_name": "တနိုင်း",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 79,
+      "nrc_township_code": "တမန",
+      "nrc_township_name": "တမူး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 200,
+      "nrc_township_code": "တမန",
+      "nrc_township_name": "တာမွေ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 285,
+      "nrc_township_code": "တယန",
+      "nrc_township_name": "တန့်ယန်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 162,
+      "nrc_township_code": "တသန",
+      "nrc_township_name": "တောင်သာ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 87,
+      "nrc_township_code": "တသရ",
+      "nrc_township_name": "တနင်္သာရီ",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 55,
+      "nrc_township_code": "ထခန",
+      "nrc_township_name": "ထီးချိုင့်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 103,
+      "nrc_township_code": "ထတပ",
+      "nrc_township_name": "ထန်းတပင်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 215,
+      "nrc_township_code": "ထတပ",
+      "nrc_township_name": "ထန်းတပင်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 40,
+      "nrc_township_code": "ထတလ",
+      "nrc_township_name": "ထန်တလန်",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 130,
+      "nrc_township_code": "ထလန",
+      "nrc_township_name": "ထီးလင်း",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 80,
+      "nrc_township_code": "ထဝန",
+      "nrc_township_name": "ထားဝယ်",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 321,
+      "nrc_township_code": "ဒခသ",
+      "nrc_township_name": "ဒက္ခိဏသီရိ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 202,
+      "nrc_township_code": "ဒဂဆ",
+      "nrc_township_name": "ဒဂုံမြို့သစ်(ဆိပ်ကမ်း)",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 203,
+      "nrc_township_code": "ဒဂတ",
+      "nrc_township_name": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 237,
+      "nrc_township_code": "ဒဂန",
+      "nrc_township_name": "ဒဂုံ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 204,
+      "nrc_township_code": "ဒဂမ",
+      "nrc_township_name": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 205,
+      "nrc_township_code": "ဒဂရ",
+      "nrc_township_name": "ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 317,
+      "nrc_township_code": "ဒဒရ",
+      "nrc_township_name": "ဒေးဒရဲ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 206,
+      "nrc_township_code": "ဒပန",
+      "nrc_township_name": "ဒေါပုံ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 75,
+      "nrc_township_code": "ဒပယ",
+      "nrc_township_name": "ဒီပဲယင်း",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 20,
+      "nrc_township_code": "ဒမဆ",
+      "nrc_township_name": "ဒီးမော့ဆို",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 229,
+      "nrc_township_code": "ဒလန",
+      "nrc_township_name": "ဒလ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 96,
+      "nrc_township_code": "ဒဥန",
+      "nrc_township_name": "ဒိုက်ဦး",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 303,
+      "nrc_township_code": "ဓနဖ",
+      "nrc_township_name": "ဓနုဖြူ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 291,
+      "nrc_township_code": "နခတ",
+      "nrc_township_name": "နောင်ချို",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 269,
+      "nrc_township_code": "နခန",
+      "nrc_township_name": "နမ့်ခမ်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 280,
+      "nrc_township_code": "နစန",
+      "nrc_township_name": "နမ့်စန်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 289,
+      "nrc_township_code": "နဆန",
+      "nrc_township_name": "နမ့်ဆန်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 115,
+      "nrc_township_code": "နတလ",
+      "nrc_township_name": "နတ်တလင်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 160,
+      "nrc_township_code": "နထက",
+      "nrc_township_name": "နွားထိုးကြီး",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 290,
+      "nrc_township_code": "နမတ",
+      "nrc_township_name": "နမ္မတူ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 17,
+      "nrc_township_code": "နမန",
+      "nrc_township_name": "နောင်မွန်း",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 123,
+      "nrc_township_code": "နမန",
+      "nrc_township_name": "နတ်မောက်",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 64,
+      "nrc_township_code": "နယန",
+      "nrc_township_name": "နန်းယွန်း",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 148,
+      "nrc_township_code": "ပကခ",
+      "nrc_township_name": "ပြည်ကြီးတံခွန်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 139,
+      "nrc_township_code": "ပခက",
+      "nrc_township_name": "ပခုက္ကူ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 105,
+      "nrc_township_code": "ပခတ",
+      "nrc_township_name": "ပေါက်ခေါင်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 90,
+      "nrc_township_code": "ပခန",
+      "nrc_township_name": "ပဲခူး",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 207,
+      "nrc_township_code": "ပဇတ",
+      "nrc_township_name": "ပုဇွန်တောင်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 185,
+      "nrc_township_code": "ပဏတ",
+      "nrc_township_name": "ပုဏ္ဏားကျွန်း",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 107,
+      "nrc_township_code": "ပတတ",
+      "nrc_township_name": "ပေါင်းတည်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 106,
+      "nrc_township_code": "ပတန",
+      "nrc_township_name": "ပန်းတောင်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 184,
+      "nrc_township_code": "ပတန",
+      "nrc_township_name": "ပေါက်တော",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 304,
+      "nrc_township_code": "ပတန",
+      "nrc_township_name": "ပန်းတနော်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 250,
+      "nrc_township_code": "ပတယ",
+      "nrc_township_name": "ပင်းတယ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 14,
+      "nrc_township_code": "ပတအ",
+      "nrc_township_name": "ပူတာအို",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 125,
+      "nrc_township_code": "ပဖန",
+      "nrc_township_name": "ပွင့်ဖြူ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 326,
+      "nrc_township_code": "ပဗသ",
+      "nrc_township_name": "ပုဗ္ဗသီရိ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 244,
+      "nrc_township_code": "ပဘတ",
+      "nrc_township_name": "ပန်းဘဲတန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 172,
+      "nrc_township_code": "ပဘန",
+      "nrc_township_name": "ပျော်ဘွယ်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 104,
+      "nrc_township_code": "ပမန",
+      "nrc_township_name": "ပြည်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 142,
+      "nrc_township_code": "ပမန",
+      "nrc_township_name": "ပေါက်",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 182,
+      "nrc_township_code": "ပမန",
+      "nrc_township_name": "ပေါင်",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 323,
+      "nrc_township_code": "ပမန",
+      "nrc_township_name": "ပျဉ်းမနား",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 262,
+      "nrc_township_code": "ပယန",
+      "nrc_township_name": "မက်မန်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 70,
+      "nrc_township_code": "ပလန",
+      "nrc_township_name": "ပုလဲ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 86,
+      "nrc_township_code": "ပလန",
+      "nrc_township_name": "ပုလော",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 251,
+      "nrc_township_code": "ပလန",
+      "nrc_township_name": "ပင်လောင်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 59,
+      "nrc_township_code": "ပလဘ",
+      "nrc_township_name": "ပင်လည်ဘူး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 42,
+      "nrc_township_code": "ပလဝ",
+      "nrc_township_name": "ပလက်ဝ",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 149,
+      "nrc_township_code": "ပသက",
+      "nrc_township_name": "ပုသိမ်ကြီး",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 295,
+      "nrc_township_code": "ပသန",
+      "nrc_township_name": "ပုသိမ်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 166,
+      "nrc_township_code": "ပဥလ",
+      "nrc_township_name": "ပြင်ဦးလွင်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 253,
+      "nrc_township_code": "ဖခန",
+      "nrc_township_name": "ဖယ်ခုံ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 24,
+      "nrc_township_code": "ဖဆန",
+      "nrc_township_name": "ဖားဆောင်း",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 33,
+      "nrc_township_code": "ဖပန",
+      "nrc_township_name": "ဖာပွန်",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 66,
+      "nrc_township_code": "ဖပန",
+      "nrc_township_name": "ဖောင်းပြင်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 315,
+      "nrc_township_code": "ဖပန",
+      "nrc_township_name": "ဖျာပုံ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 101,
+      "nrc_township_code": "ဖမန",
+      "nrc_township_name": "ဖြူး",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 21,
+      "nrc_township_code": "ဖရဆ",
+      "nrc_township_name": "ဖရူဆို",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 34,
+      "nrc_township_code": "ဖလန",
+      "nrc_township_name": "ဖလမ်း",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 208,
+      "nrc_township_code": "ဗတထ",
+      "nrc_township_name": "ဗိုလ်တထောင်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 10,
+      "nrc_township_code": "ဗမန",
+      "nrc_township_name": "ဗန်းမော်",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 56,
+      "nrc_township_code": "ဗမန",
+      "nrc_township_name": "ဗန်းမောက်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 238,
+      "nrc_township_code": "ဗဟန",
+      "nrc_township_name": "ဗဟန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 316,
+      "nrc_township_code": "ဘကလ",
+      "nrc_township_name": "ဘိုကလေး",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 46,
+      "nrc_township_code": "ဘတလ",
+      "nrc_township_name": "ဘုတလင်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 89,
+      "nrc_township_code": "ဘပန",
+      "nrc_township_name": "ဘုတ်ပြင်း",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 23,
+      "nrc_township_code": "ဘလခ",
+      "nrc_township_name": "ဘောလခဲ",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 180,
+      "nrc_township_code": "ဘလန",
+      "nrc_township_name": "ဘီးလင်း",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 199,
+      "nrc_township_code": "ဘသတ",
+      "nrc_township_name": "ဘူးသီးတောင်",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 27,
+      "nrc_township_code": "ဘအန",
+      "nrc_township_name": "ဘားအံ",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 1,
+      "nrc_township_code": "မကန",
+      "nrc_township_name": "မြစ်ကြီးနား",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 8,
+      "nrc_township_code": "မကန",
+      "nrc_township_name": "မိုးကောင်း",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 52,
+      "nrc_township_code": "မကန",
+      "nrc_township_name": "မင်းကင်း",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 118,
+      "nrc_township_code": "မကန",
+      "nrc_township_name": "မကွေး",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 167,
+      "nrc_township_code": "မကန",
+      "nrc_township_name": "မိုးကုတ်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 277,
+      "nrc_township_code": "မကန",
+      "nrc_township_name": "မိုင်းကိုင်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 159,
+      "nrc_township_code": "မခန",
+      "nrc_township_name": "မြင်းခြံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 256,
+      "nrc_township_code": "မခန",
+      "nrc_township_name": "မိုင်းခတ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 16,
+      "nrc_township_code": "မခဘ",
+      "nrc_township_name": "မချမ်းဘော",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 213,
+      "nrc_township_code": "မဂတ",
+      "nrc_township_name": "မင်္ဂလာတောင်ညွန့်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 216,
+      "nrc_township_code": "မဂဒ",
+      "nrc_township_name": "မင်္ဂလာဒုံ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 12,
+      "nrc_township_code": "မစန",
+      "nrc_township_name": "မံစီ",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 25,
+      "nrc_township_code": "မစန",
+      "nrc_township_name": "မယ်စဲ",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 267,
+      "nrc_township_code": "မဆတ",
+      "nrc_township_name": "မူဆယ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 265,
+      "nrc_township_code": "မဆန",
+      "nrc_township_name": "မိုင်းဆတ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 7,
+      "nrc_township_code": "မညန",
+      "nrc_township_name": "မိုးညှင်း",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 116,
+      "nrc_township_code": "မညန",
+      "nrc_township_name": "မိုးညို",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 288,
+      "nrc_township_code": "မတတ",
+      "nrc_township_name": "မန်တုံ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 37,
+      "nrc_township_code": "မတန",
+      "nrc_township_name": "မင်းတပ်",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 134,
+      "nrc_township_code": "မတန",
+      "nrc_township_name": "မင်းတုန်း",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 198,
+      "nrc_township_code": "မတန",
+      "nrc_township_name": "မောင်တော",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 266,
+      "nrc_township_code": "မတန",
+      "nrc_township_name": "မိုင်းတုံ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 41,
+      "nrc_township_code": "မတပ",
+      "nrc_township_name": "မတူပီ",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 170,
+      "nrc_township_code": "မတရ",
+      "nrc_township_name": "မတ္တရာ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 137,
+      "nrc_township_code": "မထန",
+      "nrc_township_name": "အောင်လံ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 155,
+      "nrc_township_code": "မထလ",
+      "nrc_township_name": "မိတ္ထီလာ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 177,
+      "nrc_township_code": "မဒန",
+      "nrc_township_name": "မုဒုံ",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 332,
+      "nrc_township_code": "မနတ",
+      "nrc_township_name": "အောင်မြေသာဇံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 271,
+      "nrc_township_code": "မနန",
+      "nrc_township_name": "မိုးနဲ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 330,
+      "nrc_township_code": "မနမ",
+      "nrc_township_name": "အောင်မြေသာဇံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 192,
+      "nrc_township_code": "မပတ",
+      "nrc_township_name": "မြေပုံ",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 258,
+      "nrc_township_code": "မပတ",
+      "nrc_township_name": "မိုင်းပျဉ်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 193,
+      "nrc_township_code": "မပန",
+      "nrc_township_name": "မင်းပြား",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 272,
+      "nrc_township_code": "မပန",
+      "nrc_township_name": "မိုင်းပန်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 260,
+      "nrc_township_code": "မဖန",
+      "nrc_township_name": "မိုင်းဖြတ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 124,
+      "nrc_township_code": "မဘန",
+      "nrc_township_name": "မင်းဘူး",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 217,
+      "nrc_township_code": "မဘန",
+      "nrc_township_name": "မှော်ဘီ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 264,
+      "nrc_township_code": "မဘန",
+      "nrc_township_name": "မဘိမ်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 320,
+      "nrc_township_code": "မမက",
+      "nrc_township_name": "မော်လမြိုင်ကျွန်း",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 48,
+      "nrc_township_code": "မမတ",
+      "nrc_township_name": "မြင်းမူ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 263,
+      "nrc_township_code": "မမတ",
+      "nrc_township_name": "မိုးမိတ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 13,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "မိုးမောက်",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 49,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "မြောင်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 84,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "မြိတ်",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 141,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "မြိုင်",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 165,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "ပြင်ဦးလွင်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 273,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "မောက်မယ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 312,
+      "nrc_township_code": "မမန",
+      "nrc_township_name": "မြောင်းမြ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 261,
+      "nrc_township_code": "မယတ",
+      "nrc_township_name": "မိုင်းယောင်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 257,
+      "nrc_township_code": "မယန",
+      "nrc_township_name": "မိုင်းယန်း",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 239,
+      "nrc_township_code": "မရက",
+      "nrc_township_name": "မရမ်းကုန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 284,
+      "nrc_township_code": "မရတ",
+      "nrc_township_name": "မိုင်းရယ်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 329,
+      "nrc_township_code": "မရတ",
+      "nrc_township_name": "အောင်မြေသာဇံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 43,
+      "nrc_township_code": "မရန",
+      "nrc_township_name": "မုံရွာ",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 278,
+      "nrc_township_code": "မရန",
+      "nrc_township_name": "မိုင်းရှူး",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 331,
+      "nrc_township_code": "မရမ",
+      "nrc_township_name": "အောင်မြေသာဇံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 65,
+      "nrc_township_code": "မလန",
+      "nrc_township_name": "မော်လိုက်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 112,
+      "nrc_township_code": "မလန",
+      "nrc_township_name": "မင်းလှ",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 133,
+      "nrc_township_code": "မလန",
+      "nrc_township_name": "မင်းလှ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 156,
+      "nrc_township_code": "မလန",
+      "nrc_township_name": "မလှိုင်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 173,
+      "nrc_township_code": "မလမ",
+      "nrc_township_name": "မော်လမြိုင်",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 30,
+      "nrc_township_code": "မဝတ",
+      "nrc_township_name": "မြဝတီ",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 122,
+      "nrc_township_code": "မသန",
+      "nrc_township_name": "မြို့သစ်",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 152,
+      "nrc_township_code": "မသန",
+      "nrc_township_name": "မြစ်သား",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 147,
+      "nrc_township_code": "မဟမ",
+      "nrc_township_name": "မဟာအောင်မြေ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 190,
+      "nrc_township_code": "မအန",
+      "nrc_township_name": "မာန်အောင်",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 309,
+      "nrc_township_code": "မအန",
+      "nrc_township_name": "မြန်အောင်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 302,
+      "nrc_township_code": "မအပ",
+      "nrc_township_name": "မအူပင်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 191,
+      "nrc_township_code": "မဥန",
+      "nrc_township_name": "မြောက်ဦး",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 67,
+      "nrc_township_code": "ယမပ",
+      "nrc_township_name": "ယင်းမာပင်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 11,
+      "nrc_township_code": "ရကန",
+      "nrc_township_name": "ရွှေကူ",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 97,
+      "nrc_township_code": "ရကန",
+      "nrc_township_name": "ရွှေကျင်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 210,
+      "nrc_township_code": "ရကန",
+      "nrc_township_name": "ရန်ကင်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 301,
+      "nrc_township_code": "ရကန",
+      "nrc_township_name": "ရေကြည်",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 252,
+      "nrc_township_code": "ရငန",
+      "nrc_township_name": "ရွာငံ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 140,
+      "nrc_township_code": "ရစက",
+      "nrc_township_name": "ရေစကြို",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 248,
+      "nrc_township_code": "ရစန",
+      "nrc_township_name": "ရပ်စောက်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 22,
+      "nrc_township_code": "ရတန",
+      "nrc_township_name": "ရှားတော",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 109,
+      "nrc_township_code": "ရတန",
+      "nrc_township_name": "ရွှေတောင်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 99,
+      "nrc_township_code": "ရတရ",
+      "nrc_township_name": "ရေတာရှည်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 119,
+      "nrc_township_code": "ရနခ",
+      "nrc_township_name": "ရေနံချောင်း",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 218,
+      "nrc_township_code": "ရပသ",
+      "nrc_township_name": "ရွှေပြည်သာ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 83,
+      "nrc_township_code": "ရဖန",
+      "nrc_township_name": "ရေဖြူ",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 188,
+      "nrc_township_code": "ရဗန",
+      "nrc_township_name": "ရမ်းဗြဲ",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 71,
+      "nrc_township_code": "ရဘန",
+      "nrc_township_name": "ရွှေဘို",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 174,
+      "nrc_township_code": "ရမန",
+      "nrc_township_name": "ရေး",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 171,
+      "nrc_township_code": "ရမသ",
+      "nrc_township_name": "ရမည်းသင်း",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 186,
+      "nrc_township_code": "ရသတ",
+      "nrc_township_name": "ရသေ့တောင်",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 26,
+      "nrc_township_code": "ရသန",
+      "nrc_township_name": "ရွာသစ်",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 74,
+      "nrc_township_code": "ရဥန",
+      "nrc_township_name": "ရေဦး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 19,
+      "nrc_township_code": "လကန",
+      "nrc_township_name": "လွိုင်ကော်",
+      "nrc_sr_code": "၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 219,
+      "nrc_township_code": "လကန",
+      "nrc_township_name": "လှည်းကူး",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 292,
+      "nrc_township_code": "လကန",
+      "nrc_township_name": "လောက်ကိုင်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 270,
+      "nrc_township_code": "လခတ",
+      "nrc_township_name": "လင်းခေး",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 276,
+      "nrc_township_code": "လခန",
+      "nrc_township_name": "လဲချား",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 111,
+      "nrc_township_code": "လပတ",
+      "nrc_township_name": "လက်ပံတန်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 319,
+      "nrc_township_code": "လပတ",
+      "nrc_township_name": "လပွတ္တာ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 28,
+      "nrc_township_code": "လဘန",
+      "nrc_township_name": "လှိုင်းဘွဲ့",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 240,
+      "nrc_township_code": "လမတ",
+      "nrc_township_name": "လမ်းမတော်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 242,
+      "nrc_township_code": "လမန",
+      "nrc_township_name": "လှိုင်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 311,
+      "nrc_township_code": "လမန",
+      "nrc_township_name": "လေးမျက်နှာ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 62,
+      "nrc_township_code": "လရန",
+      "nrc_township_name": "လေရှီး",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 281,
+      "nrc_township_code": "လရန",
+      "nrc_township_name": "လားရှိူး",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 81,
+      "nrc_township_code": "လလန",
+      "nrc_township_name": "လောင်းလုံး",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 274,
+      "nrc_township_code": "လလန",
+      "nrc_township_name": "လွိုင်လင်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 322,
+      "nrc_township_code": "လဝန",
+      "nrc_township_name": "လယ်ဝေး",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 241,
+      "nrc_township_code": "လသန",
+      "nrc_township_name": "လသာ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 220,
+      "nrc_township_code": "လသယ",
+      "nrc_township_name": "လှိုင်သာယာ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 63,
+      "nrc_township_code": "လဟန",
+      "nrc_township_name": "လဟယ်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 313,
+      "nrc_township_code": "ဝခမ",
+      "nrc_township_name": "ဝါးခယ်မ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 158,
+      "nrc_township_code": "ဝတန",
+      "nrc_township_name": "ဝမ်းတွင်း",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 2,
+      "nrc_township_code": "ဝမန",
+      "nrc_township_name": "ဝိုင်းမော်ြမို့",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 93,
+      "nrc_township_code": "ဝမန",
+      "nrc_township_name": "ဝေါ",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 73,
+      "nrc_township_code": "ဝလန",
+      "nrc_township_name": "ဝက်လက်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 212,
+      "nrc_township_code": "သကတ",
+      "nrc_township_name": "သာကေတ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 108,
+      "nrc_township_code": "သကန",
+      "nrc_township_name": "သဲကုန်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 231,
+      "nrc_township_code": "သခန",
+      "nrc_township_name": "သုံးခွ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 211,
+      "nrc_township_code": "သဃက",
+      "nrc_township_name": "သင်္ဃန်းကျွန်း",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 157,
+      "nrc_township_code": "သစန",
+      "nrc_township_name": "သာစည်",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 29,
+      "nrc_township_code": "သတန",
+      "nrc_township_name": "သံတောင်ကြီး",
+      "nrc_sr_code": "၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 195,
+      "nrc_township_code": "သတန",
+      "nrc_township_name": "သံတွဲ",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 179,
+      "nrc_township_code": "သထန",
+      "nrc_township_name": "သထုံ",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 282,
+      "nrc_township_code": "သနန",
+      "nrc_township_name": "သိန္နီ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 91,
+      "nrc_township_code": "သနပ",
+      "nrc_township_name": "သနပ်ပင်",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 169,
+      "nrc_township_code": "သပက",
+      "nrc_township_name": "သပိတ်ကျင်း",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 287,
+      "nrc_township_code": "သပန",
+      "nrc_township_name": "သီပေါ",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 299,
+      "nrc_township_code": "သပန",
+      "nrc_township_name": "သာပေါင်း",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 178,
+      "nrc_township_code": "သဖရ",
+      "nrc_township_name": "သံဖြူဇရပ်",
+      "nrc_sr_code": "၁၀/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 82,
+      "nrc_township_code": "သရခ",
+      "nrc_township_name": "သရက်ချောင်း",
+      "nrc_sr_code": "၆/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 132,
+      "nrc_township_code": "သရန",
+      "nrc_township_name": "သရက်",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 230,
+      "nrc_township_code": "သလန",
+      "nrc_township_name": "သန်လျင်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 110,
+      "nrc_township_code": "သဝတ",
+      "nrc_township_name": "သာယာဝတီ",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 39,
+      "nrc_township_code": "ဟခန",
+      "nrc_township_name": "ဟားခါး",
+      "nrc_sr_code": "၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 254,
+      "nrc_township_code": "ဟပန",
+      "nrc_township_name": "ဟိုပုံး",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 294,
+      "nrc_township_code": "ဟပန",
+      "nrc_township_name": "ဟိုပန်",
+      "nrc_sr_code": "၁၃/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 61,
+      "nrc_township_code": "ဟမလ",
+      "nrc_township_name": "ဟုမ္မလင်း",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 306,
+      "nrc_township_code": "ဟသတ",
+      "nrc_township_name": "ဟင်္သာတ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 310,
+      "nrc_township_code": "အဂပ",
+      "nrc_township_name": "အင်္ဂပူ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 6,
+      "nrc_township_code": "အဂယ",
+      "nrc_township_name": "အင်ဂျန်းယန်",
+      "nrc_sr_code": "၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 221,
+      "nrc_township_code": "အစန",
+      "nrc_township_name": "အင်းစိန်",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 54,
+      "nrc_township_code": "အတန",
+      "nrc_township_name": "အင်းတော်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 102,
+      "nrc_township_code": "အတန",
+      "nrc_township_name": "အုတ်တွင်း",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 113,
+      "nrc_township_code": "အဖန",
+      "nrc_township_name": "အုတ်ဖို",
+      "nrc_sr_code": "၇/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 144,
+      "nrc_township_code": "အမဇ",
+      "nrc_township_name": "အောင်မြေသာဇံ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 189,
+      "nrc_township_code": "အမန",
+      "nrc_township_name": "အမ်း",
+      "nrc_sr_code": "၁၁/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 314,
+      "nrc_township_code": "အမန",
+      "nrc_township_name": "အိမ်မဲ",
+      "nrc_sr_code": "၁၄/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 150,
+      "nrc_township_code": "အမရ",
+      "nrc_township_name": "အမရပူရ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 44,
+      "nrc_township_code": "အရတ",
+      "nrc_township_name": "အရာတော်",
+      "nrc_sr_code": "၅/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 136,
+      "nrc_township_code": "အလန",
+      "nrc_township_name": "အောင်လံ",
+      "nrc_sr_code": "၈/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 243,
+      "nrc_township_code": "အလန",
+      "nrc_township_name": "အလုံ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 201,
+      "nrc_township_code": "ဥကတ",
+      "nrc_township_name": "တောင်ဥက္ကလာပ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 209,
+      "nrc_township_code": "ဥကမ",
+      "nrc_township_name": "မြောက်ဥက္လလာပ",
+      "nrc_sr_code": "၁၂/",
+      "VoterID": null,
+      "voter": null
+    },
+    {
+      "ID": 325,
+      "nrc_township_code": "ဥတသ",
+      "nrc_township_name": "ဥတ္တရသီရိ",
+      "nrc_sr_code": "၉/",
+      "VoterID": null,
+      "voter": null
+    }
+  ]
+}
