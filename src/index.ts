@@ -7,8 +7,6 @@ import { INRCData, INRCTownShip, ITownShip } from '../types/custom-typings';
 
 
 const NRC_REGEX=/([၀-၉]{1,2})\/([ကခဂဃငစဆဇဈညဎဏတထဒဓနပဖဗဘမယရလဝသဟဠဥဧ]{3})(\([နိုင်,ဧည့်,ပြု,စ,သာ,သီ]{1,6}\))([၀-၉]{6})$/gm;
-const NRC_CODES=nrccode.data
-const TOWN_SHIP=township.data
 const MM_NUM_2_EN_NUM={
     "၀":"0",
     "၁":"1",
@@ -22,18 +20,22 @@ const MM_NUM_2_EN_NUM={
     "၉":"9"
 }
 
-const regExr= new RegExp(NRC_REGEX)
+
 
 export const getMatchNRC = (input:string):string[]=>{
-    let m;
+    if(!(validateNRC(input.trim()))){
+        throw Error("Invalid NRC Number")
+    }
+    let m:RegExpExecArray | null; 
     const matchArr:string[]=[];
-    while ((m = regExr.exec(input)) !== null) {
-        // This is necessary to avoid infinite loops with zero-width matches
+    const regExr= new RegExp(NRC_REGEX)
+    while ((m = regExr.exec(input.trim())) !== null) {
+        
         if (m.index === regExr.lastIndex) {
             regExr.lastIndex++;
         }   
 
-        // The result can be accessed through the `m`-variable.
+        
         m.forEach((match) => {
             matchArr.push(match)
         });
@@ -42,19 +44,27 @@ export const getMatchNRC = (input:string):string[]=>{
 }
 
 export const validateNRC=(input:string):boolean=>{
+    const regExr= new RegExp(NRC_REGEX)
     return regExr.test(input.trim())
 }
 
 export const verifyNRC=(input:string):boolean=>{
-
+    if(!(validateNRC(input.trim()))){
+        throw Error("Invalid NRC Number")
+    }
     const matchArr=getMatchNRC(input.trim())
     const nrcSRCode = `${matchArr[1]}/`
     const nrcTownShipCode= `${matchArr[2]}`
+
     return nrccode.data.some((item:INRCTownShip)=> item.nrc_sr_code === nrcSRCode && item.nrc_township_code===nrcTownShipCode)
 }
 
 export const extractNrcInfo=(input:string):INRCData|undefined=>{
     
+    if(!(validateNRC(input.trim()))){
+        throw Error("Invalid NRC Number")
+    }
+
     const matchArr=getMatchNRC(input.trim())
     
     const citizenShipStatus = `${matchArr[3]}`
@@ -65,6 +75,7 @@ export const extractNrcInfo=(input:string):INRCData|undefined=>{
     
     
     const nrc = nrccode.data.find((item:INRCTownShip)=>item.nrc_sr_code === nrcSRCodebackSlash && item.nrc_township_code===nrcTownShipCode) 
+    
     if(!nrc){
         return undefined
     }
@@ -83,6 +94,7 @@ export const extractNrcInfo=(input:string):INRCData|undefined=>{
     return nrcData
     
 }
+
 
 
 
