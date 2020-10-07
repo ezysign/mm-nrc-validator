@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "jest --verbose --coverage"
+    "test": "jest --verbose --coverage --watchAll",
+    "build:dist":"rm -rf dist && tsc"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",

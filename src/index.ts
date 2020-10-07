@@ -42,11 +42,19 @@ export const getMatchNRC = (input:string):string[]=>{
     }
     return matchArr
 }
-
+/**
+ * Validate boolean
+ * @param input string NRC Format 12/MaGaTa(C)0987463 or ၁၂/မဂတ(နိုင်)၀၉၄၇၅၆၁ 
+ */
 export const validateNRC=(input:string):boolean=>{
     const regExr= new RegExp(NRC_REGEX)
     return regExr.test(input.trim())
 }
+
+/**
+ * Verify NRC Number township and sr_code which will return verificaton result whether boolean
+ * @param input string NRC Format 12/MaGaTa(C)0987463 or ၁၂/မဂတ(နိုင်)၀၉၄၇၅၆၁
+ */
 
 export const verifyNRC=(input:string):boolean=>{
     if(!(validateNRC(input.trim()))){
@@ -59,6 +67,10 @@ export const verifyNRC=(input:string):boolean=>{
     return nrccode.data.some((item:INRCTownShip)=> item.nrc_sr_code === nrcSRCode && item.nrc_township_code===nrcTownShipCode)
 }
 
+/**
+ * Extract NRC identity info from NRC Number which will return @INRCData
+ * @param input string NRC Format 12/MaGaTa(C)0987463 or ၁၂/မဂတ(နိုင်)၀၉၄၇၅၆၁
+ */
 export const extractNrcInfo=(input:string):INRCData|undefined=>{
     
     if(!(validateNRC(input.trim()))){
